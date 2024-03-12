@@ -1,6 +1,6 @@
-# Collection of tools for indexing and searching in the Milvus vector database
+# Collection of tools for indexing and searching in vector databases
 
-## USAGE
+## MILVUS DATABASE USAGE
 
 The main files are the jupyter notebooks: scrapeParse_MDR, json2csv and milvus_CR_test.
 
